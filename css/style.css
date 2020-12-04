@@ -3,3 +3,11 @@
     padding: 0;
     margin: 0;
 }
+
+figure {
+    display: inline-flex;
+}
+
+nav {
+    display: inline-flex;
+}
